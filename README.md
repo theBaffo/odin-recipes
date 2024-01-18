@@ -1,0 +1,1 @@
+A simple recipe page created as part of the "Project: Recipes" exercise of the Foundation Course of The Odin Project.
